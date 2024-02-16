@@ -91,7 +91,7 @@ We Care is your go-to platform for mental wellness and good health. We're on a m
 
 <h3>Use and Set Up</h3>
 <p>
-    1. The website is deployed at - https://the-caring-comet.vercel.app/ <br>
+    1. The website is deployed at - https://we-care-omega.vercel.app/ <br>
     2. For the backend to run on your machine, clone this repostory into your local machine <br>
     3. Install required libraries using commands in the requirements.txt <br>
     4. Run the server.py file <br>
