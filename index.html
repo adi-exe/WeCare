@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>We Care</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="botstyle.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@1,700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Oswald"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <script src="script.js" defer></script>
+  </head>
+
+  <body>
+    <!-- <h1 class="alpha-slab"> The Caring Comet </h1> -->
+    <div class="content">
+      <h2>We Care</h2>
+      <h2>We Care</h2>
+    </div>
+    <hr class="line" />
+
+    <div class="hero">
+      <div class="about">
+        <div class="img half-width">
+          <img src="./images/logo.png" alt="logo" width="500" height="500" />
+        </div>
+        <div class="about-text half-width">
+          <p>
+            At We Care, we understand that life throws curves, and sometimes
+            navigating those bends can be challenging. We're here to be your
+            supportive companion, offering a hand to help you find your strength
+            and inner peace.🌟
+            <br /><br />
+
+            Explore our Resources hub, a treasure trove of insights, tools, and
+            tips designed to empower you on your emotional well-being journey.
+            Take our psychometric test, a personalized compass guiding you to
+            self-discovery and understanding.
+            <br /><br />
+
+            We Care is more than just a website; it's a safe space where you can
+            blossom and thrive. Share your story, offer support, and help us
+            cultivate a community of resilience and well-being.
+          </p>
+        </div>
+      </div>
+      <div class="nav-bar">
+        <ul>
+          <li class="a">
+            <a href="resources.html"
+              ><button><b>Look at Resources</b></button></a
+            >
+          </li>
+          <li class="b">
+            <a href="doctor.html"
+              ><button><b>Find Doctors</b></button></a
+            >
+          </li>
+          <li class="c">
+            <a href="test.html"
+              ><button><b>Take a Psychometric Test</b></button></a
+            >
+          </li>
+          <li class="d chatbot-toggler">
+            <button id="access-chatbot">
+              <b>Go to Comet - our Emotional Support Bot</b>
+            </button>
+          </li>
+        </ul>
+      </div>
+      <div class="chatbot">
+        <header>
+          <h2>Comet</h2>
+          <span class="close-btn material-symbols-outlined">close</span>
+        </header>
+        <ul class="chatbox">
+          <li class="chat incoming">
+            <span class="material-symbols-outlined">&#129302;</span>
+            <p>Hi there 👋<br />How can I help you today?</p>
+          </li>
+        </ul>
+        <div class="chat-input">
+          <textarea
+            placeholder="Enter a message..."
+            spellcheck="false"
+            required
+          ></textarea>
+          <span id="send-btn" class="material-symbols-rounded"
+            ><i class="material-icons">send</i></span
+          >
+        </div>
+      </div>
+    </div>
+    <div id="wall">
+      <h1 class="alpha-slab">Leave Your Thoughts Here</h1>
+      <div class="contact-container">
+        <form
+          action="https://api.web3forms.com/submit"
+          method="POST"
+          class="contact-left"
+          onsubmit="submitForm(event)"
+        >
+          <div class="contact-left-title">
+            <h2>Get In Touch</h2>
+            <hr class="line2" />
+          </div>
+          <input
+            type="hidden"
+            name="access_key"
+            value="637ce51e-0186-4e17-98bf-730569832755"
+          />
+          <input
+            type="text"
+            name="name"
+            placeholder="Enter Your Name"
+            class="contact-inputs"
+            required
+          />
+          <input
+            type="email"
+            name="email"
+            placeholder="Enter Your Email"
+            class="contact-inputs"
+            required
+          />
+          <textarea
+            name="message"
+            placeholder="Your Message"
+            class="contact-inputs"
+            required
+          ></textarea>
+          <button type="submit">Submit</button>
+          <h4 id="msg" style="color: rgb(33, 32, 32)"></h4>
+        </form>
+        <div class="contact-right">
+          <image src="images/care.gif"></image>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
