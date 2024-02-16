@@ -13,7 +13,7 @@ We Care is your go-to platform for mental wellness and good health. We're on a m
 
 1. <b>Resource Library 📚</b>
     <p align="center">
-      <img src= "./images/resourcesdemo.png" alt="resourcesdemo”"/>
+      <img src= "./images/resourcesss.png" alt="resourcesdemo”"/>
     </p>
     <p>
         Self-Help Videos:
@@ -32,7 +32,7 @@ We Care is your go-to platform for mental wellness and good health. We're on a m
 
 2. <b>Find Doctors 👨‍⚕️</b>
     <p align="center">
-      <img src= "./images/doctorsdemo.png" alt="doctorsdemo”"/>
+      <img src= "./images/doctorsss.png" alt="doctorsdemo”"/>
     </p>
     <p>
         Search and Find:
@@ -46,7 +46,7 @@ We Care is your go-to platform for mental wellness and good health. We're on a m
  
 3. <b> Psychometric Test 📝</b>
     <p align="center">
-      <img src= "./images/pyschodemo.png" alt="pyschodemo”"/>
+      <img src= "./images/pyschoss.png" alt="pyschodemo”"/>
     </p>
     <p>
         User-Friendly Assessment:
@@ -60,7 +60,7 @@ We Care is your go-to platform for mental wellness and good health. We're on a m
 
 4. <b> The NLP-Bot "Comet" 🤖</b>
     <p align="center">
-      <img src= "./images/botdemo.png" alt="botdemo”"/>
+      <img src= "./images/botss.png" alt="botdemo”"/>
     </p>
     <p>
         Real-Time Support:
@@ -74,7 +74,7 @@ We Care is your go-to platform for mental wellness and good health. We're on a m
 
 5. <b> Get-In-Touch via Email (Real-Time) 📧</b>
     <p align="center">
-      <img src= "./images/getindemo.png" alt="getindemo”"/>
+      <img src= "./images/getinss.png" alt="getindemo”"/>
     </p>
     <p>
         This allows the users to fill in whatever they wish to share with our team, and the real-time form response will be received at our end. This allows us to get back to them personally with possible solutions.  
