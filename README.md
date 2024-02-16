@@ -1,6 +1,6 @@
 <div align = "center">
-    <h1><b>Caring Comet ☄️</b></h1>
-    <h5>Illuminating Your Path To Emotional Well-Being</h5>
+    <h1><b>We Care 🤝🏼</b></h1>
+    <h5>Where Hope and Healing Meets</h5>
 </div>
 <p align="center">
   <img src= "./images/logo.png" alt="logo”" width="350"/>
