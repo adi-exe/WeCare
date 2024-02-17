@@ -96,5 +96,5 @@ We Care is your go-to platform for mental wellness and good health. We're on a m
     3. Install required libraries using commands in the requirements.txt <br>
     4. Run the server.py file <br>
     <br>
-    Now you have everything in place, use the website link above to interact with The Caring Comet
+    Now you have everything in place, use the website link above to interact with We Care.
 </p>
